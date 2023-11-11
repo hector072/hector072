@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hector072
+- 👋 Hi, I’m @Hector
 - 👀 I’m interested in python code
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small python project
